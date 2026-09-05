@@ -1,4 +1,4 @@
-package abc042_c;
+package abc042.c;
 
 import java.util.HashSet;
 import java.util.Scanner;

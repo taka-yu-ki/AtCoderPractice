@@ -1,4 +1,4 @@
-package abc042_b;
+package abc042.b;
 
 import java.util.Arrays;
 import java.util.Scanner;
